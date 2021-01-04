@@ -1,1 +1,1 @@
-# bank-account
+# kata bank-account project
